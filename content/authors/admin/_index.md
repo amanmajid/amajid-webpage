@@ -14,7 +14,7 @@ organizations:
   url: https://www.eci.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Aman Majid is a Postdoctoral Research Associate in Energy and Water Systems at the Oxford Martin School and the Environmental Change Institute
 
 # Interests to show in About widget
 interests:
@@ -67,8 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Research Associate at the Oxford Martin School and Environmental Change Institute at the University of Oxford. My research focuses on energy and water infrastructure systems, specialising in coupled systems modelling of these networks. I am working on the Oxford Martin Programme on Transboundary Resources Management, where I am developing models and tools to understand energy-water interactions in Israel, Palestine, and Jordan. I am also conducting energy systems analysis for the Coalition for Climate Resilient Investment (CCRI) project on creating a platform for infrastructure risk assessment and resilient investment prioritisation in Jamaica.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
