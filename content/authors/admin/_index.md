@@ -69,4 +69,4 @@ highlight_name: false
 
 I am a Research Associate at the Oxford Martin School and Environmental Change Institute at the University of Oxford. My research focuses on energy and water infrastructure systems, specialising in coupled systems modelling of these networks. I am working on the Oxford Martin Programme on Transboundary Resources Management, where I am developing models and tools to understand energy-water interactions in Israel, Palestine, and Jordan. I am also conducting energy systems analysis for the Coalition for Climate Resilient Investment (CCRI) project on creating a platform for infrastructure risk assessment and resilient investment prioritisation in Jamaica.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_majid_apr2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_aman_majid.pdf" "newtab" >}}CV{{< /staticref >}}.
