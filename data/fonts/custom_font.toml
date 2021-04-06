@@ -2,6 +2,7 @@
 name = "Minimal"
 
 # Optional Google font URL
+# https://fonts.google.com/?query=lat
 google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
