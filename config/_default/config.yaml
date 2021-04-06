@@ -5,7 +5,7 @@
 
 title: Aman Majid # Website name
 baseurl: 'https://amanmajid.github.io/' # Website URL
-copyright: '© {year} Aman Majid' # Footer text, e.g. '© {year} Me'
+copyright: '© Aman Majid, {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
